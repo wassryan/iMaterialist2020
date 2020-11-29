@@ -1,0 +1,2046 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "shirt, blouse",
+      "supercategory": "upperbody",
+      "level": 2
+    },
+    {
+      "id": 1,
+      "name": "top, t-shirt, sweatshirt",
+      "supercategory": "upperbody",
+      "level": 2
+    },
+    {
+      "id": 2,
+      "name": "sweater",
+      "supercategory": "upperbody",
+      "level": 2
+    },
+    {
+      "id": 3,
+      "name": "cardigan",
+      "supercategory": "upperbody",
+      "level": 2
+    },
+    {
+      "id": 4,
+      "name": "jacket",
+      "supercategory": "upperbody",
+      "level": 2
+    },
+    {
+      "id": 5,
+      "name": "vest",
+      "supercategory": "upperbody",
+      "level": 2
+    },
+    {
+      "id": 6,
+      "name": "pants",
+      "supercategory": "lowerbody",
+      "level": 2
+    },
+    {
+      "id": 7,
+      "name": "shorts",
+      "supercategory": "lowerbody",
+      "level": 2
+    },
+    {
+      "id": 8,
+      "name": "skirt",
+      "supercategory": "lowerbody",
+      "level": 2
+    },
+    {
+      "id": 9,
+      "name": "coat",
+      "supercategory": "wholebody",
+      "level": 2
+    },
+    {
+      "id": 10,
+      "name": "dress",
+      "supercategory": "wholebody",
+      "level": 2
+    },
+    {
+      "id": 11,
+      "name": "jumpsuit",
+      "supercategory": "wholebody",
+      "level": 2
+    },
+    {
+      "id": 12,
+      "name": "cape",
+      "supercategory": "wholebody",
+      "level": 2
+    },
+    {
+      "id": 13,
+      "name": "glasses",
+      "supercategory": "head",
+      "level": 2
+    },
+    {
+      "id": 14,
+      "name": "hat",
+      "supercategory": "head",
+      "level": 2
+    },
+    {
+      "id": 15,
+      "name": "headband, head covering, hair accessory",
+      "supercategory": "head",
+      "level": 2
+    },
+    {
+      "id": 16,
+      "name": "tie",
+      "supercategory": "neck",
+      "level": 2
+    },
+    {
+      "id": 17,
+      "name": "glove",
+      "supercategory": "arms and hands",
+      "level": 2
+    },
+    {
+      "id": 18,
+      "name": "watch",
+      "supercategory": "arms and hands",
+      "level": 2
+    },
+    {
+      "id": 19,
+      "name": "belt",
+      "supercategory": "waist",
+      "level": 2
+    },
+    {
+      "id": 20,
+      "name": "leg warmer",
+      "supercategory": "legs and feet",
+      "level": 2
+    },
+    {
+      "id": 21,
+      "name": "tights, stockings",
+      "supercategory": "legs and feet",
+      "level": 2
+    },
+    {
+      "id": 22,
+      "name": "sock",
+      "supercategory": "legs and feet",
+      "level": 2
+    },
+    {
+      "id": 23,
+      "name": "shoe",
+      "supercategory": "legs and feet",
+      "level": 2
+    },
+    {
+      "id": 24,
+      "name": "bag, wallet",
+      "supercategory": "others",
+      "level": 2
+    },
+    {
+      "id": 25,
+      "name": "scarf",
+      "supercategory": "others",
+      "level": 2
+    },
+    {
+      "id": 26,
+      "name": "umbrella",
+      "supercategory": "others",
+      "level": 2
+    },
+    {
+      "id": 27,
+      "name": "hood",
+      "supercategory": "garment parts",
+      "level": 2
+    },
+    {
+      "id": 28,
+      "name": "collar",
+      "supercategory": "garment parts",
+      "level": 2
+    },
+    {
+      "id": 29,
+      "name": "lapel",
+      "supercategory": "garment parts",
+      "level": 2
+    },
+    {
+      "id": 30,
+      "name": "epaulette",
+      "supercategory": "garment parts",
+      "level": 2
+    },
+    {
+      "id": 31,
+      "name": "sleeve",
+      "supercategory": "garment parts",
+      "level": 2
+    },
+    {
+      "id": 32,
+      "name": "pocket",
+      "supercategory": "garment parts",
+      "level": 2
+    },
+    {
+      "id": 33,
+      "name": "neckline",
+      "supercategory": "garment parts",
+      "level": 2
+    },
+    {
+      "id": 34,
+      "name": "buckle",
+      "supercategory": "closures",
+      "level": 2
+    },
+    {
+      "id": 35,
+      "name": "zipper",
+      "supercategory": "closures",
+      "level": 2
+    },
+    {
+      "id": 36,
+      "name": "applique",
+      "supercategory": "decorations",
+      "level": 2
+    },
+    {
+      "id": 37,
+      "name": "bead",
+      "supercategory": "decorations",
+      "level": 2
+    },
+    {
+      "id": 38,
+      "name": "bow",
+      "supercategory": "decorations",
+      "level": 2
+    },
+    {
+      "id": 39,
+      "name": "flower",
+      "supercategory": "decorations",
+      "level": 2
+    },
+    {
+      "id": 40,
+      "name": "fringe",
+      "supercategory": "decorations",
+      "level": 2
+    },
+    {
+      "id": 41,
+      "name": "ribbon",
+      "supercategory": "decorations",
+      "level": 2
+    },
+    {
+      "id": 42,
+      "name": "rivet",
+      "supercategory": "decorations",
+      "level": 2
+    },
+    {
+      "id": 43,
+      "name": "ruffle",
+      "supercategory": "decorations",
+      "level": 2
+    },
+    {
+      "id": 44,
+      "name": "sequin",
+      "supercategory": "decorations",
+      "level": 2
+    },
+    {
+      "id": 45,
+      "name": "tassel",
+      "supercategory": "decorations",
+      "level": 2
+    }
+  ],
+  "attributes": [
+    {
+      "id": 0,
+      "name": "classic (t-shirt)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 1,
+      "name": "polo (shirt)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 2,
+      "name": "undershirt",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 3,
+      "name": "henley (shirt)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 4,
+      "name": "ringer (t-shirt)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 5,
+      "name": "raglan (t-shirt)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 6,
+      "name": "rugby (shirt)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 7,
+      "name": "sailor (shirt)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 8,
+      "name": "crop (top)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 9,
+      "name": "halter (top)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 10,
+      "name": "camisole",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 11,
+      "name": "tank (top)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 12,
+      "name": "peasant (top)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 13,
+      "name": "tube (top)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 14,
+      "name": "tunic (top)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 15,
+      "name": "smock (top)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 16,
+      "name": "hoodie",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 17,
+      "name": "blazer",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 18,
+      "name": "pea (jacket)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 19,
+      "name": "puffer (jacket)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 20,
+      "name": "biker (jacket)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 21,
+      "name": "trucker (jacket)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 22,
+      "name": "bomber (jacket)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 23,
+      "name": "anorak",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 24,
+      "name": "safari (jacket)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 25,
+      "name": "mao (jacket)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 26,
+      "name": "nehru (jacket)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 27,
+      "name": "norfolk (jacket)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 28,
+      "name": "classic military (jacket)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 29,
+      "name": "track (jacket)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 30,
+      "name": "windbreaker",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 31,
+      "name": "chanel (jacket)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 32,
+      "name": "bolero",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 33,
+      "name": "tuxedo (jacket)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 34,
+      "name": "varsity (jacket)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 35,
+      "name": "crop (jacket)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 36,
+      "name": "jeans",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 37,
+      "name": "sweatpants",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 38,
+      "name": "leggings",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 39,
+      "name": "hip-huggers (pants)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 40,
+      "name": "cargo (pants)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 41,
+      "name": "culottes",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 42,
+      "name": "capri (pants)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 43,
+      "name": "harem (pants)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 44,
+      "name": "sailor (pants)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 45,
+      "name": "jodhpur",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 46,
+      "name": "peg (pants)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 47,
+      "name": "camo (pants)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 48,
+      "name": "track (pants)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 49,
+      "name": "crop (pants)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 50,
+      "name": "short (shorts)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 51,
+      "name": "booty (shorts)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 52,
+      "name": "bermuda (shorts)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 53,
+      "name": "cargo (shorts)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 54,
+      "name": "trunks",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 55,
+      "name": "boardshorts",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 56,
+      "name": "skort",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 57,
+      "name": "roll-up (shorts)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 58,
+      "name": "tie-up (shorts)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 59,
+      "name": "culotte (shorts)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 60,
+      "name": "lounge (shorts)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 61,
+      "name": "bloomers",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 62,
+      "name": "tutu (skirt)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 63,
+      "name": "kilt",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 64,
+      "name": "wrap (skirt)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 65,
+      "name": "skater (skirt)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 66,
+      "name": "cargo (skirt)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 67,
+      "name": "hobble (skirt)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 68,
+      "name": "sheath (skirt)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 69,
+      "name": "ball gown (skirt)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 70,
+      "name": "gypsy (skirt)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 71,
+      "name": "rah-rah (skirt)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 72,
+      "name": "prairie (skirt)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 73,
+      "name": "flamenco (skirt)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 74,
+      "name": "accordion (skirt)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 75,
+      "name": "sarong (skirt)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 76,
+      "name": "tulip (skirt)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 77,
+      "name": "dirndl (skirt)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 78,
+      "name": "godet (skirt)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 79,
+      "name": "blanket (coat)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 80,
+      "name": "parka",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 81,
+      "name": "trench (coat)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 82,
+      "name": "pea (coat)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 83,
+      "name": "shearling (coat)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 84,
+      "name": "teddy bear (coat)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 85,
+      "name": "puffer (coat)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 86,
+      "name": "duster (coat)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 87,
+      "name": "raincoat",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 88,
+      "name": "kimono",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 89,
+      "name": "robe",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 90,
+      "name": "dress (coat )",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 91,
+      "name": "duffle (coat)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 92,
+      "name": "wrap (coat)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 93,
+      "name": "military (coat)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 94,
+      "name": "swing (coat)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 95,
+      "name": "halter (dress)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 96,
+      "name": "wrap (dress)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 97,
+      "name": "chemise (dress)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 98,
+      "name": "slip (dress)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 99,
+      "name": "cheongsams",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 100,
+      "name": "jumper (dress)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 101,
+      "name": "shift (dress)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 102,
+      "name": "sheath (dress)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 103,
+      "name": "shirt (dress)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 104,
+      "name": "sundress",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 105,
+      "name": "kaftan",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 106,
+      "name": "bodycon (dress)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 107,
+      "name": "nightgown",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 108,
+      "name": "gown",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 109,
+      "name": "sweater (dress)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 110,
+      "name": "tea (dress)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 111,
+      "name": "blouson (dress)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 112,
+      "name": "tunic (dress)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 113,
+      "name": "skater (dress)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 114,
+      "name": "asymmetrical",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 115,
+      "name": "symmetrical",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 116,
+      "name": "peplum",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 117,
+      "name": "circle",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 118,
+      "name": "flare",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 119,
+      "name": "fit and flare",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 120,
+      "name": "trumpet",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 121,
+      "name": "mermaid",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 122,
+      "name": "balloon",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 123,
+      "name": "bell",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 124,
+      "name": "bell bottom",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 125,
+      "name": "bootcut",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 126,
+      "name": "peg",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 127,
+      "name": "pencil",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 128,
+      "name": "straight",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 129,
+      "name": "a-line",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 130,
+      "name": "tent",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 131,
+      "name": "baggy",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 132,
+      "name": "wide leg",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 133,
+      "name": "high low",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 134,
+      "name": "curved (fit)",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 135,
+      "name": "tight (fit)",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 136,
+      "name": "regular (fit)",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 137,
+      "name": "loose (fit)",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 138,
+      "name": "oversized",
+      "supercategory": "silhouette",
+      "level": 1
+    },
+    {
+      "id": 139,
+      "name": "empire waistline",
+      "supercategory": "waistline",
+      "level": 1
+    },
+    {
+      "id": 140,
+      "name": "dropped waistline",
+      "supercategory": "waistline",
+      "level": 1
+    },
+    {
+      "id": 141,
+      "name": "high waist",
+      "supercategory": "waistline",
+      "level": 1
+    },
+    {
+      "id": 142,
+      "name": "normal waist",
+      "supercategory": "waistline",
+      "level": 1
+    },
+    {
+      "id": 143,
+      "name": "low waist",
+      "supercategory": "waistline",
+      "level": 1
+    },
+    {
+      "id": 144,
+      "name": "basque (wasitline)",
+      "supercategory": "waistline",
+      "level": 1
+    },
+    {
+      "id": 145,
+      "name": "no waistline",
+      "supercategory": "waistline",
+      "level": 1
+    },
+    {
+      "id": 146,
+      "name": "above-the-hip (length)",
+      "supercategory": "length",
+      "level": 1
+    },
+    {
+      "id": 147,
+      "name": "hip (length)",
+      "supercategory": "length",
+      "level": 1
+    },
+    {
+      "id": 148,
+      "name": "micro (length)",
+      "supercategory": "length",
+      "level": 1
+    },
+    {
+      "id": 149,
+      "name": "mini (length)",
+      "supercategory": "length",
+      "level": 1
+    },
+    {
+      "id": 150,
+      "name": "above-the-knee (length)",
+      "supercategory": "length",
+      "level": 1
+    },
+    {
+      "id": 151,
+      "name": "knee (length)",
+      "supercategory": "length",
+      "level": 1
+    },
+    {
+      "id": 152,
+      "name": "below the knee (length)",
+      "supercategory": "length",
+      "level": 1
+    },
+    {
+      "id": 153,
+      "name": "midi",
+      "supercategory": "length",
+      "level": 1
+    },
+    {
+      "id": 154,
+      "name": "maxi (length)",
+      "supercategory": "length",
+      "level": 1
+    },
+    {
+      "id": 155,
+      "name": "floor (length)",
+      "supercategory": "length",
+      "level": 1
+    },
+    {
+      "id": 156,
+      "name": "sleeveless",
+      "supercategory": "length",
+      "level": 1
+    },
+    {
+      "id": 157,
+      "name": "short (length)",
+      "supercategory": "length",
+      "level": 1
+    },
+    {
+      "id": 158,
+      "name": "elbow-length",
+      "supercategory": "length",
+      "level": 1
+    },
+    {
+      "id": 159,
+      "name": "three quarter (length)",
+      "supercategory": "length",
+      "level": 1
+    },
+    {
+      "id": 160,
+      "name": "wrist-length",
+      "supercategory": "length",
+      "level": 1
+    },
+    {
+      "id": 161,
+      "name": "asymmetric (collar)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 162,
+      "name": "regular (collar)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 163,
+      "name": "shirt (collar)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 164,
+      "name": "polo (collar)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 165,
+      "name": "chelsea (collar)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 166,
+      "name": "banded (collar)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 167,
+      "name": "mandarin (collar)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 168,
+      "name": "peter pan (collar)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 169,
+      "name": "bow (collar)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 170,
+      "name": "stand-away (collar)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 171,
+      "name": "jabot (collar)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 172,
+      "name": "sailor (collar)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 173,
+      "name": "oversized (collar)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 174,
+      "name": "notched (lapel)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 175,
+      "name": "peak (lapel)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 176,
+      "name": "shawl (lapel)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 177,
+      "name": "napoleon (lapel)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 178,
+      "name": "oversized (lapel)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 179,
+      "name": "collarless",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 180,
+      "name": "asymmetric (neckline)",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 181,
+      "name": "crew (neck)",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 182,
+      "name": "round (neck)",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 183,
+      "name": "v-neck",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 184,
+      "name": "surplice (neck)",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 185,
+      "name": "oval (neck)",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 186,
+      "name": "u-neck",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 187,
+      "name": "sweetheart (neckline)",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 188,
+      "name": "queen anne (neck)",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 189,
+      "name": "boat (neck)",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 190,
+      "name": "scoop (neck)",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 191,
+      "name": "square (neckline)",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 192,
+      "name": "plunging (neckline)",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 193,
+      "name": "keyhole (neck)",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 194,
+      "name": "halter (neck)",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 195,
+      "name": "crossover (neck)",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 196,
+      "name": "choker (neck)",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 197,
+      "name": "high (neck)",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 198,
+      "name": "turtle (neck)",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 199,
+      "name": "cowl (neck)",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 200,
+      "name": "straight across (neck)",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 201,
+      "name": "illusion (neck)",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 202,
+      "name": "off-the-shoulder",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 203,
+      "name": "one shoulder",
+      "supercategory": "neckline type",
+      "level": 1
+    },
+    {
+      "id": 204,
+      "name": "set-in sleeve",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 205,
+      "name": "dropped-shoulder sleeve",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 206,
+      "name": "raglan (sleeve)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 207,
+      "name": "cap (sleeve)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 208,
+      "name": "tulip (sleeve)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 209,
+      "name": "puff (sleeve)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 210,
+      "name": "bell (sleeve)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 211,
+      "name": "circular flounce (sleeve)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 212,
+      "name": "poet (sleeve)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 213,
+      "name": "dolman (sleeve), batwing (sleeve)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 214,
+      "name": "bishop (sleeve)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 215,
+      "name": "leg of mutton (sleeve)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 216,
+      "name": "kimono (sleeve)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 217,
+      "name": "cargo (pocket)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 218,
+      "name": "patch (pocket)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 219,
+      "name": "welt (pocket)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 220,
+      "name": "kangaroo (pocket)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 221,
+      "name": "seam (pocket)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 222,
+      "name": "slash (pocket)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 223,
+      "name": "curved (pocket)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 224,
+      "name": "flap (pocket)",
+      "supercategory": "nickname",
+      "level": 1
+    },
+    {
+      "id": 225,
+      "name": "single breasted",
+      "supercategory": "opening type",
+      "level": 1
+    },
+    {
+      "id": 226,
+      "name": "double breasted",
+      "supercategory": "opening type",
+      "level": 1
+    },
+    {
+      "id": 227,
+      "name": "lace up",
+      "supercategory": "opening type",
+      "level": 1
+    },
+    {
+      "id": 228,
+      "name": "wrapping",
+      "supercategory": "opening type",
+      "level": 1
+    },
+    {
+      "id": 229,
+      "name": "zip-up",
+      "supercategory": "opening type",
+      "level": 1
+    },
+    {
+      "id": 230,
+      "name": "fly (opening)",
+      "supercategory": "opening type",
+      "level": 1
+    },
+    {
+      "id": 231,
+      "name": "chained (opening)",
+      "supercategory": "opening type",
+      "level": 1
+    },
+    {
+      "id": 232,
+      "name": "buckled (opening)",
+      "supercategory": "opening type",
+      "level": 1
+    },
+    {
+      "id": 233,
+      "name": "toggled (opening)",
+      "supercategory": "opening type",
+      "level": 1
+    },
+    {
+      "id": 234,
+      "name": "no opening",
+      "supercategory": "opening type",
+      "level": 1
+    },
+    {
+      "id": 281,
+      "name": "plastic",
+      "supercategory": "non-textile material type",
+      "level": 1
+    },
+    {
+      "id": 282,
+      "name": "rubber",
+      "supercategory": "non-textile material type",
+      "level": 1
+    },
+    {
+      "id": 283,
+      "name": "metal",
+      "supercategory": "non-textile material type",
+      "level": 1
+    },
+    {
+      "id": 285,
+      "name": "feather",
+      "supercategory": "non-textile material type",
+      "level": 1
+    },
+    {
+      "id": 286,
+      "name": "gem",
+      "supercategory": "non-textile material type",
+      "level": 1
+    },
+    {
+      "id": 287,
+      "name": "bone",
+      "supercategory": "non-textile material type",
+      "level": 1
+    },
+    {
+      "id": 288,
+      "name": "ivory",
+      "supercategory": "non-textile material type",
+      "level": 1
+    },
+    {
+      "id": 289,
+      "name": "fur",
+      "supercategory": "non-textile material type",
+      "level": 1
+    },
+    {
+      "id": 290,
+      "name": "suede",
+      "supercategory": "leather",
+      "level": 2
+    },
+    {
+      "id": 291,
+      "name": "shearling",
+      "supercategory": "leather",
+      "level": 2
+    },
+    {
+      "id": 292,
+      "name": "crocodile",
+      "supercategory": "leather",
+      "level": 2
+    },
+    {
+      "id": 293,
+      "name": "snakeskin",
+      "supercategory": "leather",
+      "level": 2
+    },
+    {
+      "id": 294,
+      "name": "wood",
+      "supercategory": "non-textile material type",
+      "level": 1
+    },
+    {
+      "id": 295,
+      "name": "no non-textile material",
+      "supercategory": "non-textile material type",
+      "level": 1
+    },
+    {
+      "id": 296,
+      "name": "burnout",
+      "supercategory": "textile finishing, manufacturing techniques",
+      "level": 1
+    },
+    {
+      "id": 297,
+      "name": "distressed",
+      "supercategory": "textile finishing, manufacturing techniques",
+      "level": 1
+    },
+    {
+      "id": 298,
+      "name": "washed",
+      "supercategory": "textile finishing, manufacturing techniques",
+      "level": 1
+    },
+    {
+      "id": 299,
+      "name": "embossed",
+      "supercategory": "textile finishing, manufacturing techniques",
+      "level": 1
+    },
+    {
+      "id": 300,
+      "name": "frayed",
+      "supercategory": "textile finishing, manufacturing techniques",
+      "level": 1
+    },
+    {
+      "id": 301,
+      "name": "printed",
+      "supercategory": "textile finishing, manufacturing techniques",
+      "level": 1
+    },
+    {
+      "id": 302,
+      "name": "ruched",
+      "supercategory": "textile finishing, manufacturing techniques",
+      "level": 1
+    },
+    {
+      "id": 303,
+      "name": "quilted",
+      "supercategory": "textile finishing, manufacturing techniques",
+      "level": 1
+    },
+    {
+      "id": 304,
+      "name": "pleat",
+      "supercategory": "textile finishing, manufacturing techniques",
+      "level": 1
+    },
+    {
+      "id": 305,
+      "name": "gathering",
+      "supercategory": "textile finishing, manufacturing techniques",
+      "level": 1
+    },
+    {
+      "id": 306,
+      "name": "smocking",
+      "supercategory": "textile finishing, manufacturing techniques",
+      "level": 1
+    },
+    {
+      "id": 307,
+      "name": "tiered",
+      "supercategory": "textile finishing, manufacturing techniques",
+      "level": 1
+    },
+    {
+      "id": 308,
+      "name": "cutout",
+      "supercategory": "textile finishing, manufacturing techniques",
+      "level": 1
+    },
+    {
+      "id": 309,
+      "name": "slit",
+      "supercategory": "textile finishing, manufacturing techniques",
+      "level": 1
+    },
+    {
+      "id": 310,
+      "name": "perforated",
+      "supercategory": "textile finishing, manufacturing techniques",
+      "level": 1
+    },
+    {
+      "id": 311,
+      "name": "lining",
+      "supercategory": "textile finishing, manufacturing techniques",
+      "level": 1
+    },
+    {
+      "id": 312,
+      "name": "applique(a)",
+      "supercategory": "textile finishing, manufacturing techniques",
+      "level": 1
+    },
+    {
+      "id": 313,
+      "name": "bead(a)",
+      "supercategory": "textile finishing, manufacturing techniques",
+      "level": 1
+    },
+    {
+      "id": 314,
+      "name": "rivet(a)",
+      "supercategory": "textile finishing, manufacturing techniques",
+      "level": 1
+    },
+    {
+      "id": 315,
+      "name": "sequin(a)",
+      "supercategory": "textile finishing, manufacturing techniques",
+      "level": 1
+    },
+    {
+      "id": 316,
+      "name": "no special manufacturing technique",
+      "supercategory": "textile finishing, manufacturing techniques",
+      "level": 1
+    },
+    {
+      "id": 317,
+      "name": "plain (pattern)",
+      "supercategory": "textile pattern",
+      "level": 1
+    },
+    {
+      "id": 318,
+      "name": "abstract",
+      "supercategory": "textile pattern",
+      "level": 1
+    },
+    {
+      "id": 319,
+      "name": "cartoon",
+      "supercategory": "textile pattern",
+      "level": 1
+    },
+    {
+      "id": 320,
+      "name": "letters, numbers",
+      "supercategory": "textile pattern",
+      "level": 1
+    },
+    {
+      "id": 321,
+      "name": "camouflage",
+      "supercategory": "textile pattern",
+      "level": 1
+    },
+    {
+      "id": 322,
+      "name": "check",
+      "supercategory": "textile pattern",
+      "level": 1
+    },
+    {
+      "id": 323,
+      "name": "dot",
+      "supercategory": "textile pattern",
+      "level": 1
+    },
+    {
+      "id": 324,
+      "name": "fair isle",
+      "supercategory": "textile pattern",
+      "level": 1
+    },
+    {
+      "id": 325,
+      "name": "floral",
+      "supercategory": "textile pattern",
+      "level": 1
+    },
+    {
+      "id": 326,
+      "name": "geometric",
+      "supercategory": "textile pattern",
+      "level": 1
+    },
+    {
+      "id": 327,
+      "name": "paisley",
+      "supercategory": "textile pattern",
+      "level": 1
+    },
+    {
+      "id": 328,
+      "name": "stripe",
+      "supercategory": "textile pattern",
+      "level": 1
+    },
+    {
+      "id": 329,
+      "name": "houndstooth (pattern)",
+      "supercategory": "textile pattern",
+      "level": 1
+    },
+    {
+      "id": 330,
+      "name": "herringbone (pattern)",
+      "supercategory": "textile pattern",
+      "level": 1
+    },
+    {
+      "id": 331,
+      "name": "chevron",
+      "supercategory": "textile pattern",
+      "level": 1
+    },
+    {
+      "id": 332,
+      "name": "argyle",
+      "supercategory": "textile pattern",
+      "level": 1
+    },
+    {
+      "id": 333,
+      "name": "leopard",
+      "supercategory": "animal",
+      "level": 2
+    },
+    {
+      "id": 334,
+      "name": "snakeskin (pattern)",
+      "supercategory": "animal",
+      "level": 2
+    },
+    {
+      "id": 335,
+      "name": "cheetah",
+      "supercategory": "animal",
+      "level": 2
+    },
+    {
+      "id": 336,
+      "name": "peacock",
+      "supercategory": "animal",
+      "level": 2
+    },
+    {
+      "id": 337,
+      "name": "zebra",
+      "supercategory": "animal",
+      "level": 2
+    },
+    {
+      "id": 338,
+      "name": "giraffe",
+      "supercategory": "animal",
+      "level": 2
+    },
+    {
+      "id": 339,
+      "name": "toile de jouy",
+      "supercategory": "textile pattern",
+      "level": 1
+    },
+    {
+      "id": 340,
+      "name": "plant",
+      "supercategory": "textile pattern",
+      "level": 1
+    }
+  ]
+}
